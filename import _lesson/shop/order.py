@@ -17,3 +17,5 @@ def make_new_oreder(choice,new_quantity,total_price):
     big_order=[]
     big_order.append(order)
     print(big_order)
+
+    print("du[a")
